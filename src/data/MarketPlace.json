@@ -1,0 +1,58 @@
+[
+  {
+    "id" : "Bitrefill",
+    "name" : "Bitrefill",
+    "logo" : "https://bluewallet.io/marketplace/img/bitrefill.png",
+    "url" : "https://www.bitrefill.com/embed/lightning?ref=erF6mfho&utm_source=bitcoinwallet",
+    "desc" : "Buy vouchers, refill your phone or pay your bills"
+  },
+  {
+    "id" : "silent.link",
+    "name" : "silent.link",
+    "logo" : "https://bluewallet.io/marketplace/img/silent.link.png",
+    "url" : "https://silent.link/?utm_source=bitcoinwallet&utm_media=ln",
+    "desc" : "Get global 5G data roaming plan, UK +44 SMS/burner number with eSIM, NO KYC"
+  },
+  {
+    "id" : "Stekking",
+    "name" : "Stekking",
+    "logo" : "https://bluewallet.io/marketplace/img/stekking.png",
+    "url" : "https://stekking.com/?utm_source=bitcoinwallet",
+    "desc" : "Earn free bitcoin when you shop online"
+  },
+  {
+    "id" : "lnsms",
+    "name" : "lnsms",
+    "logo" : "https://bluewallet.io/marketplace/img/lnsms.png",
+    "url" : "https://lnsms.world/?utm_source=bitcoinwallet",
+    "desc" : "Send texts worldwide and pay with Lightning"
+  },
+  {
+    "id" : "Zigzag",
+    "name" : "Zigzag",
+    "logo" : "https://bluewallet.io/marketplace/img/zigzag.png",
+    "url" : "https://zigzag.io/?utm_source=integration&utm_medium=bluewallet&utm_campaign=marketplace",
+    "desc" : "Exchange crypto in seconds with low fees"
+  },
+  {
+    "id" : "Trade on HodlHodl",
+    "name" : "Trade on HodlHodl",
+    "logo" : "https://bluewallet.io/marketplace/img/hodlhodl.png",
+    "url" : "https://hodlhodl.com/join/BLUEWALLET",
+    "desc" : "Global P2P Bitcoin exchange that doesn't hold funds"
+  },
+  {
+    "id" : "Sat2.io",
+    "name" : "Sat2.io",
+    "logo" : "https://bluewallet.io/marketplace/img/sat2.png",
+    "url" : "https://sat2.io/",
+    "desc" : "Send satoshis to a phone number"
+  },
+  {
+    "id" : "Receive SMS",
+    "name" : "Receive SMS",
+    "logo" : "https://bluewallet.io/marketplace/img/receivesms.png",
+    "url" : "https://kriptode.com/receivesms/index.html?utm_source=bitcoinwallet",
+    "desc" : "Generate disposable phone number"
+  }
+]

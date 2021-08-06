@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Wallet 2",
+    "network": {
+      "messagePrefix": "\u0018Bitcoin Signed Message:\n",
+      "bech32": "tb",
+      "bip32": {
+        "public": 70617039,
+        "private": 70615956
+      },
+      "pubKeyHash": 111,
+      "scriptHash": 196,
+      "wif": 239
+    },
+    "wif": "cU1374hoXKvv8GAryTUaeS6948VzTrEoBggyh4mYcnMj6HYHtQsy",
+    "address": "tb1qtxje4x5m5qs6glgp82altjk503ydxvdj00yejt",
+    "mnemonic": "maid marine shop virus saddle stem devote rail mushroom snap kite wheel",
+    "balance": 0
+  },
+  {
+    "name": "Wallet 2",
+    "network": {
+      "messagePrefix": "\u0018Bitcoin Signed Message:\n",
+      "bech32": "tb",
+      "bip32": {
+        "public": 70617039,
+        "private": 70615956
+      },
+      "pubKeyHash": 111,
+      "scriptHash": 196,
+      "wif": 239
+    },
+    "wif": "cPrVh9Q3LgQTc8V4pQaZ2h8ywv7YGPSLZv4e7M6oEYD7tYrAWryS",
+    "address": "tb1q2cdradkwg49rg9g20zz0krtsdsz4qejv9sskae",
+    "mnemonic": "cancel ice bird trade range stumble gravity scrub happy educate ribbon arm",
+    "balance": 0.00184
+  },
+  {
+    "name": "Create a new wallet",
+    "address": "NONE"
+  }
+]
